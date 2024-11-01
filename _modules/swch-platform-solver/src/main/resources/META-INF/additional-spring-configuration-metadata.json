@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "api.swch.url",
+      "type": "java.lang.String",
+      "description": "Description for api.swch.url."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+api.swch.url: https://api.szkolawchmurze.org/
+
+logging:
+  pattern:
+    console: "%d{HH:mm:ss.SSS} [%thread] %highlight(%-5level) %logger{36} - %msg%n"

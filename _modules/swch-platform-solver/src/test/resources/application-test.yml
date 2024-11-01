@@ -1,0 +1,2 @@
+#api.swch.url: http://localhost:9999/
+#  turn on for wiremock test usage

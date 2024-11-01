@@ -1,0 +1,80 @@
+plugins {
+   id 'java'
+   id 'org.springframework.boot' version "${springBoot}"
+   id 'io.spring.dependency-management' version "${springDependencyManagement}"
+}
+
+group = 'code'
+version = '0.0.1-SNAPSHOT'
+
+java {
+   sourceCompatibility = '21'
+}
+
+configurations {
+   compileOnly {
+      extendsFrom annotationProcessor
+   }
+}
+
+repositories {
+   mavenCentral()
+}
+
+dependencies {
+//    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+   implementation 'org.springframework.boot:spring-boot-starter-web'
+   implementation 'org.springframework.boot:spring-boot-starter-webflux'
+//    implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.3.0'
+
+//    implementation 'org.flywaydb:flyway-core'
+//    runtimeOnly 'org.postgresql:postgresql'
+
+   implementation "org.openapitools:jackson-databind-nullable:${jacksonDatabindNullable}"
+   implementation "javax.annotation:javax.annotation-api:${javaxAnnotationApi}"
+   implementation "io.swagger.core.v3:swagger-annotations:${swaggerAnnotations}"
+   implementation "com.google.code.findbugs:jsr305:${jsr305}"
+
+   compileOnly 'org.projectlombok:lombok'
+   annotationProcessor 'org.projectlombok:lombok'
+   implementation "org.mapstruct:mapstruct:${mapstruct}"
+   annotationProcessor "org.mapstruct:mapstruct-processor:${mapstruct}"
+   annotationProcessor "org.projectlombok:lombok-mapstruct-binding:${lombokMapstructBinding}"
+
+   implementation 'com.fasterxml.woodstox:woodstox-core:6.5.0'
+//    implementation "com.fasterxml.jackson.core:jackson-core:${fasterxml}"
+//    implementation "com.fasterxml.jackson.core:jackson-annotations:${fasterxml}"
+//    implementation "com.fasterxml.jackson.core:jackson-databind:${fasterxml}"
+//    implementation "com.fasterxml.jackson.datatype:jackson-datatype-jsr310:${fasterxml}"
+//    implementation "com.fasterxml.jackson.module:jackson-module-parameter-names:${fasterxml}"
+//    implementation "com.fasterxml.jackson.datatype:jackson-datatype-jdk8:${fasterxml}"
+//    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:${fasterxml}"
+   implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:${fasterxml}"
+
+   implementation "org.jsonschema2pojo:jsonschema2pojo-core:${jsonschema2pojo}"
+
+   testCompileOnly 'org.projectlombok:lombok'
+   testAnnotationProcessor 'org.projectlombok:lombok'
+   testImplementation 'org.springframework.boot:spring-boot-starter-test'
+//    testImplementation 'org.springframework.boot:spring-boot-testcontainers'
+//    testImplementation 'org.testcontainers:junit-jupiter'
+//    testImplementation 'org.testcontainers:postgresql'
+   implementation "org.slf4j:slf4j-api:${wiremockSlf4j}"
+   implementation "com.github.tomakehurst:wiremock-standalone:${wiremock}"
+   implementation "io.rest-assured:rest-assured:${restAssured}"
+}
+
+dependencyManagement {
+   imports {
+//        mavenBom "org.testcontainers:testcontainers-bom:${testContainers}"
+   }
+}
+
+test {
+   useJUnitPlatform()
+   testLogging {
+      events "passed", "skipped", "failed"
+   }
+}
+
+compileJava.options.encoding = 'UTF-8'
