@@ -1,0 +1,176 @@
+## The Big Catch (4)
+Six figures, their eyes glued to the raid like perverted voyeurs, were scattered along the passages leading to the monument. 
+“So, it begins.”
+My objective was simple: find proof of their sabotage and, going further, secure evidence implicating Count Alminius as their patron. 
+“The characters are within the range of [Veil of Betrayal].” 
+Erwin’s voice, announcing the start of the enemy’s movement, was lost in the dense white smoke that filled the cavern. 
+The aura of the third phase. It was a simple effect:
+“The characters’ mental stats are steadily decreasing.” 
+“The characters’ ability stats are steadily decreasing.” 
+“The characters’ physical stats are steadily decreasing.” 
+“The decreased stats are increased by 50%.”
+“The Dreadfear’s anger gauge increases proportionally to the decreased stats.”
+The new text was added on top of the bonuses enhanced from the previous phase.
+“The characters enter a stealth state.”
+All characters within the aura were cloaked and could not see each other.
+“All communication is severed.”
+Communication was completely blocked. 
+And….
+“Attacking a target other than a monster increases damage by fivefold and ignores all resistance.”
+Even the risk of friendly fire.
+“[Kiyaaaaaak!]”
+This aura alone rendered normal team play impossible in the third phase. How could you raid when you couldn't see each other?  Hitting a teammate with an attack spell would be disastrous. Therefore…
+*Thud.*
+The solution for the third phase was simple:
+“Behel—laaaaaaaa!”
+I roared, a shout lost to the silence, and charged towards Dreadfear.  Only we couldn't see each other, Dreadfear wasn't under the stealth effect.
+*Kwaaang!*
+The tanks held their positions as pre-arranged, the priests unleashed their area heals, and everyone held on until the aura effect wore off.  That was the standard tactic.  Of course, our team didn't have any priests, and I was the only tank.
+*“The priest’s absence is the shield-barbarian's greatest strength."* 
+If I could tank solo, this phase was manageable.  Plus, there were unexpected advantages to solo tanking.
+“The Dreadfear, King of Fear, has used [Indulgence].”
+“The character is teleported to a random location.” 
+Even if Dreadfear used its teleportation trick, I could quickly catch up and hold it again.  It would be difficult for a group of tanks to coordinate, but I wouldn't make a mistake. 
+*“The others are doing alright…?”*
+While hoping my comrades were doing well, I focused on marking Dreadfear, wary of the saboteurs' interference. After all, what would they do in the third phase?  They would exploit our blindness and troll, and I, with my most obvious position, was the most likely target. 
+*“Still no news, so maybe… they are doing alright?”*
+That thought tempted me to relax, but complacency was not an option. The result would be obvious in time, so I concentrated on Dreadfear. 
+*Kwaaang!*
+It was theoretically possible to solo tank, but the process wasn’t easy.  Dreadfear, though considered weak, was a Tier King after all.  A rare growth-type Tier King.
+“The character’s mental stat reduction has reached its maximum.”
+“The character is inflicted with the ‘Fear’ status.”
+The first debuff hit me as I spent more time exposed to the aura. 
+*Thump, thump, thump, thump.*
+My heart pounded like a drum.  A chilling fear, like an encounter with a natural predator, infiltrated my mind, causing a surge of overwhelming stress.  My mental stat was high, even without Erwin, so losing control and running away was out of the question.
+*“How is Erwin…? Is she alright?”*
+My concern was valid, but my immediate priority was myself.  My real concern was the second debuff.
+“The character’s ability stat reduction has reached its maximum.”
+“The character is inflicted with the ‘Powerlessness’ status.” 
+Powerlessness, just one of the thousands of status conditions. With this debuff, my MP regeneration was disabled, and there was a chance my cast spells would be interrupted.  And worse…
+“The [Enlargement] effect has expired.” 
+“The [Iron Fortress] effect has expired.”
+The interrupted skills had cooldowns, making Powerlessness a very difficult status condition.  The third was just as troublesome.
+“The character’s physical stat reduction has reached its maximum.”
+“The character is inflicted with the ‘Exhaustion’ status.”
+A 30% reduction in all stats under the physical category. My stamina was fixed at the minimum, and all actions consumed MP instead of stamina. 
+*Kwaaang!*
+The battle became increasingly difficult with each added debuff.
+*Zzzzt!*
+"Ugh… Strength alone won't do it anymore."
+And the grand finale was yet to come.
+“The Dreadfear, King of Fear’s, anger gauge has reached its maximum.”
+Dreadfear had diligently been building up anger since the first phase.
+“The Dreadfear, King of Fear’s, damage output increases by twofold.”
+The attacks, which were already becoming too much to bear, were now terrifyingly menacing.
+I could handle it.  Fear didn’t impede my actions thanks to my high mental stat, and the skills were just on cooldown.  Besides, in my case, I could recover my lost MP.
+“The character has used [Soul Dive].”
+“The character’s soul power is regenerated proportionally to the consumed soul power.”
+Yes, this was the spec that made solo tanking possible.
+“[Kiyaaaaaak!]”
+Dreadfear roared, frustrated by my tenacity.  Just as I was holding it back, a faint sound reached my ears.
+*Thud.*
+I felt a presence behind me.  I wouldn't have noticed it had I not been focusing on the King of Fear.  As always, my body reacted before my mind could process the information. 
+*Thud.*
+I immediately twisted my body, avoiding Dreadfear’s attack.
+*Fwoosh!*
+A searing sensation shot through my back. It was barely a scratch, but my years as a tank told me:
+*“At least it didn't hit any vital organs.”*
+It was basically nothing, a minor injury.  But it didn’t mean I wouldn’t retaliate.
+*Whooooong!*
+I swung my hammer, aiming it at the empty air.  The aura effect prevented me from hearing any groans, but…
+*Poof!*
+The impact sent a satisfying vibration through my weapon.
+“The Light of Trust repels the inner fear.”
+“The [Veil of Betrayal] effect is temporarily disabled.”
+A brilliant light illuminated the cavern, dispelling the darkness.
+“….Ugh.”
+It was time to catch the fish trapped in my net. 
+***
+The key to the third phase was the tank and priest.  You just had to hold on, and the [Veil of Betrayal] would lift, granting you a chance to unleash your damage.  Just like this:
+“The Dreadfear, King of Fear, has used [Protection Mechanism].”
+Dreadfear retreated into its thick, newly grown shell after the [Veil of Betrayal] lifted, entering a state of Grogi. Normally, you would unleash all your damage during this time, but…
+“…..”
+As soon as the [Protection Mechanism] activated, I turned and scanned the situation. 
+Erwin, Amelia, Versil, Ainar.  My comrades were unharmed.  
+*“Three… two each, huh?”*
+Erwin was responsible for three passages, where three corpses lay in gruesome shapes.  Two corpses lay in the two passages Amelia guarded, along with a captured saboteur.  Our plan was to capture them alive, but…
+*“….Erwin killed them all.”*
+From the state of the corpses, she clearly had no intention of capturing anyone.  I decided against reprimanding her immediately.  I didn’t have the time, and…
+“…..”
+She didn’t look well.  Her eyes were vacant, staring into the void.
+*“….It’s probably the ‘Fear’ status.”*
+At least the other comrades were relatively fine.
+“You missed one, Barbarian.” 
+Amelia, as quick as I was to assess the situation, fixed her gaze on Ainar.
+“…I’m, I’m sorry! I tried to capture them alive, but I missed…”
+Ainar, who was responsible for one of the three passages leading to the monument, honestly apologized. 
+Amelia, however, wasn’t going to let her off the hook.
+“Your people are so convenient.  You say you’re sorry, and everything’s over?” 
+Amelia relentlessly continued her reprimand.
+“….Huh?”
+Ainar, who was accustomed to the barbarian way of life where a single apology settled everything, was taken aback.  I was too.  I hadn’t expected her to be this angry.
+“Barbarian, your mistake could have led to Yandel getting injured even worse. Do you understand—?”
+“Stop it!” 
+I intervened, trying to calm Amelia down.
+“She understands. Enough.” 
+“…I’ll deal with this later.”
+Amelia, acknowledging the situation, stopped berating Ainar. Now it was time to check the captured saboteurs.
+“Versil. You take care of Erwin.”
+“Oh, yes…!”
+I asked Versil to check on Erwin while I took a final look around.  Two saboteurs were captured. 
+“…..”
+First, the one Amelia captured.  It was amazing how she managed to blindfold and gag him during the chaos. 
+And the second…
+“…..Ugh.”
+It was the same one Ainar had missed and who had ambushed me.  He seemed to have taken a hammer to the jaw as the lower part of his mask, which hid his face, was drenched in blood.  
+No wonder the attack felt so satisfying.
+“…Ugh, uh, uh…”
+His eyes met mine, and he crawled back, trembling like an insect.  
+Where do you think you're going? 
+*Thud, thud, thud.*
+I closed the distance in three steps and slammed my hammer into his face four times.  No use for limbs when you want to talk. 
+*Kwak, kwak, kwak, kwak.*
+Okay, Amelia was going to handle the interrogation, so I could trust her to do her job.  There was no need to crush this one’s limbs.  I had done everything I needed to do.
+“Emily, take them both and get out of here.”
+“….Are you really going to continue the raid?”
+“What else can we do?”
+It was impossible to escape Dreadfear.  And if I kept the captured saboteurs within the aura’s range, it would activate a special condition, making things even more difficult.  This was the best we could do.
+*“Well… the raid has a low chance of success.”*
+Probably about 5%.  Maybe?  We received the fourth buff in the second phase, and we skipped the first Grogi state, so…
+*“We might as well call it a failed raid.”*
+At least we had implemented safety measures, so I wasn’t too worried.  If we somehow manage to win, that’s great.  But even if we lose, as long as Amelia is successful with the interrogation, our objective will be achieved.  Therefore…
+“Yandel, be careful.”
+“Yeah, let’s go.”
+Amelia left the battlefield before the [Veil of Betrayal] could activate again, and soon the light illuminating the cavern disappeared.
+“The inner fear dispels the light.”
+“The [Veil of Betrayal] has reactivated.”
+Time to continue the raid. 
+***
+In a passage slightly away from the monument’s main chamber, where the raid continued, Amelia started the interrogation.  She carefully put on a pair of white gloves, organizing her tools for easy access.  She thoroughly examined the captured saboteurs’ belongings for anything helpful.
+“…..”
+“…..”
+These tasks were once a tedious chore, but today they felt different. 
+*“….It’s a good thing.”*
+This one had a surprising vulnerability, and in this world, you need someone to do this kind of thing. 
+“You… will hear… nothing.”
+The man with crushed limbs murmured with a determined gaze, but she didn't answer. There was no reason to let him know he could communicate.
+*“….He’s terrified.”*
+She knew from experience.  This type usually cracks first. 
+“…..”
+Indeed, while one of the saboteurs remained silent, groaning only occasionally after the interrogation began, the other one was yelling with veins bulging out of his eyes.  But Amelia didn’t ask any questions. She simply continued the “interrogation.”
+How long did it go on? 
+“….P, please.”
+Finally, the man uttered those words.  A sign that he was on the verge of collapse, seeking release.  Amelia finally opened her mouth and asked a series of questions one by one:
+Were you married?
+Did you have children?
+What was the last thing you ate for dinner before entering the Labyrinth?
+Amelia asked him questions unrelated to his identity.  Gradually, as the pain subsided with each answer, the man began to open up.
+Amelia slowly increased the intensity of her questions, not rushing. When it was time to ask his name, she said, “So what’s… what’s your name?”
+“Delbain…”
+He answered, causing her to flinch involuntarily.
+“Hans, Delbain…?”
+Hans?
+*“Wait… if it’s Hans…”*
+That’s the name that made him twitch.  They say that people with that name are like plagues and should be killed on sight.  She didn’t believe in those superstitions or jinxes, and the notion actually seemed rather cute to her.  But…
+*“…………Will it be alright?”*
+She couldn’t shake a feeling of dread. 

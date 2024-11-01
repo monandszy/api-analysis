@@ -1,0 +1,217 @@
+## Chapter 463: Proof (3)
+“The character enters the witch’s hut.”
+The witch’s hut, a place I had not visited since my ordeal with Misha. It was drastically different from my last visit.
+The grassy field, once overflowing with wildflowers, and the verdant trees with their abundant foliage were gone.
+“...Snow?”
+A vast expanse of snow-covered land stretched before us. The snow-laden trees were bare and skeletal, with a single hut visible in the distance.
+“Oh! Is this snow? Wow, it’s so cold!”
+Ainar, upon seeing the snow, was genuinely thrilled, like a child. After all, it never snowed in Raphdonia. Except for Isce Rock, a few islands on the sixth floor, and some rifts, snow was rare. Even the Frost Canyon on the fifth floor was just a frozen field.
+“Rookrook, come here!”
+“...It’s Auyen Rookrobe, not Rookrook.”
+“Aw, don't be so picky! That’s how you make friends! Anyway, come here!”
+“...Ugh…?”
+Amelia pointed out Ainar’s mistake, but Ainar persisted, dragging Auyen along to engage in a snowball fight.
+“Ow! A, it hurts! Reins…!”
+“...Yandell, are you just going to watch?”
+Amelia, unable to contain her exasperation, reprimanded me for not stopping them immediately.  Well, let the barbarians have their snowball fight.
+“Just leave them be. We’ll be checking on Erwen’s essence for a while.”
+“Right, so you have no intention of resolving this.”
+“No, that’s not what I meant… ”
+“Alright, you go check on the essence. I’ll stay here.”
+“...You’re not coming?”
+“I’ve been thinking about putting you in your place anyway.”
+With those cryptic words, Amelia darted towards Auyen. And then…
+“Oh! Are you joining in too?”
+“Yes.”
+Having activated her [Self-Replication], she began relentlessly hurling snowballs at Ainar.
+“Hahaha! Ha! Take that!”
+Ainar, initially delighted by the added playmate, soon lost her smile.
+“...Ugh, ow! What are you doing—!”
+Amelia, not content with flinging Ainar to the snow, began rubbing her face into the snowdrift.
+“Mmph…!”
+“Here’s more of your favorite snow.”
+“I, I’ve never seen a snowball fight like this—!”
+“Why do you need rules in a fight?”
+“Ugh, auuuugh! I won’t take this anymore!”
+Ainar, finally mustering her immense strength, rose to her feet, but Amelia clung to her back, her legs binding Ainar’s arms. And then…
+“What are you going to do if I don’t take it?”
+She used her clones to exploit the unguarded moment and deliver a flurry of snowballs to Ainar’s face.
+Thwack! Thwack! Thwack! Bam!
+A precise barrage, as if Ainar was a target for a skilled pitcher.
+“...Mister?”
+“...Let’s just go.”
+“Yes.”
+After watching the three for a while, we turned our backs on them and headed toward the rear of the hut. The witch’s hut was the best training ground available, after all. It offered a private environment, and unlike city training grounds, there was no need for compensation for any damage.
+“Erwen, are you done adapting?”
+“Yes.”
+“Do you notice any changes?”
+“I’m not sure. It feels like my overall abilities have increased, but I don’t feel like there’s one specific ability that has significantly boosted.”
+“There must be more, right?”
+“...My head has been hurting since earlier.”
+It wasn’t actual pain, but more like an unbearable pressure. Still, compared to before, the fact that she didn’t show it was a huge improvement.
+“It’s because of the essence. Don’t worry too much.”
+“Yes…? Because of the essence?”
+Erwen’s eyes lit up with curiosity, and I began to explain slowly.
+First, I had to talk about her stats.
+[Chaos]
+Increases your Negative Stat value by 200%. Your Negative Stat value is applied to all stats in proportion to its increase.
+In the game, that’s all that was written in the base stats section. As always, it was my responsibility as the player to figure out the formula.
+“Negative stats… are you referring to the stats that weaken me?”
+Ah, I should’ve explained that first.
+“That’s part of it, but not all of it.”
+In [Dungeon and Stone], each stat had a coefficient, and that coefficient determined the increase in the values of the stats categorized as Physical, Mental, and Magical.
+For example, Dexterity, which had a coefficient of 0.5, increased Magical stat by 0.5 for every +1 increase in the stat.
+‘Resist Magic, with a coefficient of 3, is a high-value stat.’
+But that’s not important now.
+Most stats have coefficients of 0 or higher, but sometimes you can find stats with negative coefficients. I called those Negative Stats.
+“For example, you have Impulse and Disbelief in your stats.”
+These stats decreased your stats if they were positive. Conversely, if a stat with a coefficient of 0 or higher was negative, it was called “weakening stats,” as Erwen described.
+Like Control -30 in [Rupture].
+“Ah… ”
+She seemed to understand the basic concept, so I quickly began calculating.
+What was Erwen’s current Negative Stat value?
+First, her Physical Resistance was -80 from ‘Evan’s essence.
+Her Soul Regeneration was -40 from the ‘Littcannon’ essence, which I recommended.
+Control was -30 in [Rupture].
+Impulse and Disbelief were +30 each from ‘Kalban.’
+‘Possession from the Metcrow essence has a coefficient of 0, so it doesn’t need to be included. Deprivation +40 was also erased before entering the dungeon this time… ’
+Multiplying each stat by its individual coefficient and adding them together, then multiplying the result by the Chaos essence’s coefficient of 0.2, the calculation was complete.
+The number appeared.
+‘53.8.’
+The amount by which all of Erwen’s stats would increase due to the Chaos essence.
+Ah, is it all stats?
+Stats that she didn’t possess, like Luck or Bone Density, wouldn’t increase.
+‘…It’s already ridiculously efficient.’
+I was a bit taken aback.
+While the ‘Littcannon’ essence was something I recommended, the rest of the essences were chosen by Erwen.
+‘If it’s decreased this much with Mental stats, it’s a bit dangerous… ’
+Still, her mental fortitude has hardened significantly.
+Proof of this was that she was being quite calm, even though the effects of the stat were greater than before.
+‘But I’m still worried, so I should quickly replace it with another essence.’
+Mental stats have low coefficients, making them difficult to properly utilize with the Chaos essence. Control is still the best, but Disbelief has a coefficient of only 0.6.
+It would be far more efficient to decrease high-value stats with higher coefficients. Even with Resist Magic, reducing it by 50 would increase all stats by 30.
+‘…Well, if you factor in the 200% increase in Negative stats, it would decrease by 100.’
+Anyway, this unique characteristic makes it a good essence for dealers.
+Tank essences rarely reduce damage and increase tankiness.
+“I see…  You mentioned before that I should focus on enhancing my strengths… ”
+Hmm, did I say that?
+I couldn’t remember, but it was time to move on. Though not in the inn room where she usually demonstrated her abilities…
+“Alright, use your abilities now!”
+I had to do this.
+***
+The Chaos essence consisted of two skills:
+One passive and one active.
+That’s all.
+Considering that guardian essences can have more than five active skills, this seemed lacking… 
+But sometimes, one is better than a hundred.
+(P) Chaos Circuit – All resources possessed by the character are combined into one. When all resources are consumed, you can use the power of Chaos.
+The passive was quite unique.
+Simply put, it’s a skill that combines resources like mana, nature power, soul power, and holy power into a single gauge…
+This alone was enough to make it valuable.
+It’s incredibly difficult to increase the nature power required for spirit magic.
+‘That’s probably why Erwen ate the Ertes essence. She can use the passive to convert soul power into nature power.’
+In that sense, I should erase that essence, which is useless now. The active, [Elemental Synthesis], isn’t bad, but it’s not an essence to keep until the end.
+“I… If it’s abilities… ”
+“Use [Concentrated Fire]. We’re trying to use up all your resources. Oh, summon a spirit too.”
+“...If that’s the purpose, wouldn’t summoning Dicloe be better? It would be much faster.”
+Oh, that’s true.
+I urged her to summon it quickly, and Erwen, with a reluctant expression, activated her ultimate.
+“Erwen Fornaci di Tersia summons [Dicloe, the Dark Spirit King].”
+The black mass in the shape of a human figure ripped through space and appeared.
+Dicloe, in accordance with Erwen’s request, unleashed a dark sphere towards the opposite side of the hut.
+Boom, boom! Kaboom!
+The barrier shattered as soon as the dark sphere touched it.
+“Accumulated energy is depleted.”
+Erwen’s resources were depleted about 30 seconds after she poured her energy into the attack. Before, using all her energy had limited her to 5 seconds.
+‘I guess her mana pool has increased, as her duration is much longer now.’
+Of course, that’s not the important part right now.
+“An unknown energy envelops the empty vessel.”
+The effect of [Chaos Circuit], which activates when all resources are consumed.
+“All resources are not depleted for 1 minute.”
+It’s called the perpetual motion mode.
+“...It’s truly not deactivating?”
+Erwen marveled as she watched Dicloe continuing to unleash its explosive power.
+My own amazement wasn’t much different.
+‘This much firepower for 1 minute and 30 seconds… ’
+This isn’t even the limit of her firepower.
+Her MP is unlimited.
+I’ll let the Spirit King fight on its own, and I need to use some skills too.
+“Erwen, now use [Concentrated Fire].”
+I gave her an additional order, and Erwen, without any hesitation, grabbed her bow and drew the string.
+Whoooosh!
+The white light gathered at the tip of the arrow.
+This skill, which had made a significant contribution in the fight against Riakis, was a skill I recommended she acquire as a reward from the royal family. Its effect was simple.
+It consumes MP exponentially proportionate to the casting time…
+Whoooosh!
+But it also increases damage accordingly.
+However, I usually prevented her from charging for more than 15 seconds. After that, MP consumption becomes excessive, and the damage increase decreases.
+The cooldown was also about 60 seconds, so it was more advantageous to wait and shoot another arrow later.
+But…
+‘If MP is unlimited, it’s a different story.’
+One second, two seconds, three seconds, four seconds…
+As time passed, the energy concentrated at the arrowhead intensified.
+How long did it take?
+“Now.”
+Erwen released her grip on the bowstring.
+————!
+The light shot out, bathing the world in white.
+As before, there wasn’t even a scratch on the barrier.
+But…
+‘Right, this is it.’
+I felt it instinctively.
+Kaboom!
+This instant firepower exceeded Dicloe’s.
+***
+“The unknown energy contained in the vessel is escaping.”
+“All stats are temporarily reduced by 70%.”
+***
+Erwen collapsed into my arms, exhausted, but a frantic shout came from afar.
+“B, Byorn—!! Where are you? Byorn!!”
+It was Ainar, who had been playing with Amelia.
+“W, what just happened! Is, is this a dimensional collapse? W, we might have to run away!!”
+She acted as if she were a wild animal facing a disaster.
+In a way, her innocence amused me.
+“Don’t worry. It’s not a dimensional collapse.”
+“R, really! I was so startled! The world suddenly flashed, and the entire ground shook!”
+“Yeah, yeah. Calm down. It’s all right now.”
+As I was trying to calm Ainar down, Amelia slipped to my side and asked.
+“What was that… did Tersia do that?”
+“Yes.”
+“...Amazing. That’s what a stratum essence can do.”
+“Don’t worry. I’ll get you one too later.”
+I reassured her, but she scoffed, telling me not to treat her like a barbarian. But she clearly had some hope in her eyes.
+“So, is it all over now?”
+“Yeah, it’s all over.”
+I haven’t tried the active, but I can’t verify it here anyway. I’ll have to experiment when we’re back in the city. It’s a very unusual skill.
+“Erwen, can you walk?”
+“No… I can’t.”
+I was about to carry the exhausted Erwen, but someone else stepped forward before I could.
+“Oh! Then I’ll carry her!”
+Ainar, who had always been an excellent mount.
+“Alright, get on!”
+“... ”
+“Come on?”
+“...Yes, please… ”
+With Ainar carrying Erwen, we headed towards the hut. Unlike the wintery exterior, the inside of the hut was unchanged.
+The bookshelf, the table, the rug.
+The small bed where my feet had slipped out when I lay down.
+And.
+Crackle, crackle.
+The crackling fireplace.
+“Yandell, what should we do now?”
+“Go into the flames and it’s over.”
+You’ll get the reward, the witch’s hut will close, and the character will be expelled to the forest.
+“...Byorn.”
+Ainar suddenly looked at me seriously.
+“I’ve been thinking, but actually going into the flames doesn’t feel right.”
+What the hell is this betrayal?
+It wasn’t worth responding, so I just said I’d go first and crouched down, stepping into the flames.
+Crackle!
+A warmth that wasn’t hot at all.
+“Your mental resistance stat permanently increases by +50.”
+Okay, so my stats are good…
+I closed my eyes and opened them again, but…
+“Huh…?”
+I froze in place when I opened my eyes. It wasn’t the witch’s forest, but a place I’d never seen before.
+“Who are you?”
+A girl with a pale complexion, looking like a ghost, glared at me.

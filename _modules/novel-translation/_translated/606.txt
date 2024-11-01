@@ -1,0 +1,155 @@
+## Chapter 606: The Legion Commander (3)
+A legion commander must always be busy.  They have no room for excuses, no matter what happens.  Whether people die or plans go awry, any mistake falls on their shoulders. Therefore...
+"Raven should be able to figure out this crown…."
+After entrusting Raven with the task of investigating the crown, I immediately started working on restructuring the organization.  Click, click.
+Currently, the exploration force is organized quite simply: divided into four large teams.  Priests, mages, and knights are distributed throughout each team, so their strength is relatively even, and their roles overlap significantly.  To put it mildly, it feels like I just arbitrarily divided them into four groups and told them to figure it out themselves.
+Of course, there are advantages to this structure.  It allows me to deploy just one team in urgent situations, and even if that team is wiped out, it won't affect the main force.  But...
+"It's too military-style."
+This place is a labyrinth.  Sacrifices are unavoidable, but we don’t need to prioritize sacrifice when deploying personnel.  However, the problem is...
+"I don’t have enough time to make changes."
+Ideally, I’d consolidate the four teams into one and assign each person a specific role, but there's too much to change.  It’ll take time for people to get used to the new system, and mistakes will happen until they’re trained properly.  
+"I’ll just stick with the original plan and fix the hierarchy."
+The most efficient way to manage subordinates is to appoint suitable leaders and hold them accountable.  A method that has been passed down from ancient armies—a classic case of "top-down pressure."
+Therefore, I completely deleted all existing members of the leadership council from the roster and started rebuilding from scratch.  Mages, priests, ranged DPS, melee DPS, knights, tanks, support, and non-combat roles.  I classified everyone by class, regardless of their team, then appointed a leader for each class and assigned a suitable title. 
+"Court Mage, Holy Maiden, Divine Archer, Grand Warrior, Knight Commander..."
+I just named them whatever came to mind.  The name itself isn’t important.
+"Ugh… Okay, I've decided on the leaders for each class."
+After appointing leaders for each class, I created subordinate roles.  For example, in the Mage division, there would be Research, Investigation, and Combat roles.  In the Knight division, there would be Combat and Administration roles, each with a designated head.  
+"I wonder what Raven prefers, research or investigation?"
+I'll ask her later and decide.  
+"Bjorn? Are you busy?"
+"Misha? What brings you here?"
+"Just… you look busy lately. I brought you some of your favorite fruit tea."
+Oh, I was feeling a bit low on sugar.  Gulp. 
+After swallowing half of it in one gulp, I looked at Misha.  She was staring at me with a hopeful expression.  Well, I can't just take bribes and remain silent. 
+"It's delicious. Misha, I will reward you with a position."
+"...Huh? I don't need any of that."
+"From now on, you are the Chief Secretary. Your duty is to improve the Commander’s efficiency in all aspects. You are granted the authority to make independent decisions regarding this duty."
+"Oh? So, you're saying you want me to bring you tea again?"
+Well, that's one way to interpret it.
+I nodded, and Misha, who was trying to decline the position, smiled broadly.
+"Well, if that’s the case… I wouldn’t mind.”
+I have a feline secretary now.
+***
+After revising the hierarchy, I held a leadership council meeting.  There weren’t any important agenda items; it was just a meeting to let everyone adapt to the new faces.  I was also curious to see if this new system would work.  Of course, it wasn't like there were absolutely no topics to discuss. 
+"How far has the investigation of the statues and portals progressed?"
+Even while I was buried in the barracks, revising the organization, the mages continued to investigate the stone chamber.  Today was the day I received their progress report.
+"Ah, I'll handle that."
+As soon as I brought it up, Gaewyn Vesilus, who held the title of "Court Mage" and was the head of the Mage division, stood up. 
+"How is your leg?"
+"After a few days of rest, it's completely recovered."
+Right...  He was still limping a few days ago, but today he walks normally.
+"That's good to hear. Anyway, tell me, Court Mage. How far is the stone chamber investigation?"
+"Actually, before I begin the report, there’s something I’d like to ask."
+Gaewyn Vesilus addressed me directly.
+"Why am I called ‘Court Mage’?"
+Oh, that.
+"This isn't a royal palace."
+"It's just a title, don’t worry about it. You need a name to call someone."
+"But why did you have to name it that?"
+Gaewyn mumbled in dissatisfaction, but I had no intention of changing it.  I don’t even know why he dislikes it so much.  Court Mage.  It sounds pretty cool, even if you say it backwards.  While I was thinking that and shooting Gaewyn a look that silently told him to stop complaining and give his report, a white-haired old man in white robes spoke up politely. 
+"As Lord Baron Vesilus said, it’s just a name. What matters is the essence, isn’t it?"
+"..."
+"Besides, ‘Court Mage’ is better than ‘Holy Maiden,’ wouldn’t you agree? Haha."
+It was Tobera, the Archbishop and the holder of the "Holy Maiden" title within the exploration force.  
+"..."
+The Holy Maiden, who was clearly in a worse position than him, casually brushed it off, so the Court Mage, unable to complain any longer, started his report.  
+"I will report. First of all, no additional items were found within the stone chamber.  Just three statues and one portal."
+"And?"
+"As for the portal, it’s the same as previously reported."
+"There’s a high possibility it leads back to where it came from, but it’s still too early to confirm?"
+"That’s correct.  We can analyze the portal’s properties, but ultimately, we can’t find the coordinates of the other side.  However, we have found out quite a bit about the statues."
+"Tell me."
+Gaewyn Vesilus placed three statues, each about the size of a large figurine, on the table.  One of the statues was blackened.  
+"What happened to it?"
+"The statue was activated during research."
+"...Activated?"
+"To summarize, this statue has similar properties to the Guardian statues that were here.  When activated, it can open a rift."
+"You mean the kind of rift where only Guardians appear?"
+"Yes.  Do you see this groove? When you insert a Rift Stone into this groove, the statue is activated, and a portal will open for about 30 minutes."
+"Did you go in?"
+"During the portal investigation, it disappeared after 30 minutes, so unfortunately, we couldn’t confirm what’s inside."
+Ugh… So we lost a statue?
+I felt a pang of regret, but then Gaewyn’s explanation made me feel better.
+"This statue doesn’t seem to be a one-time use.  Do you see this blackened color here?  As time passes, the color returns to its original state, starting from the bottom."
+Oh, so it's like an item with a cooldown?
+"Also, we couldn’t enter the portal, but we did learn a few things from outside.  This is just an unconfirmed hypothesis, but…"
+From there, the explanation was filled with difficult terms.
+"Through our research, we’ve learned this. The portal opened by this statue has very similar properties to the coordinate wavelength of the ‘Bloodstained Fortress’..."
+To summarize the long and complex explanation:
+"The Rift Stone we used to activate the statue was a Grade 9 Rift Stone obtained from the 1st floor rift.  We are also considering the possibility that this is not a coincidence."
+Simply put, the grade of the Rift Stone offered to the statue determines the grade of the Guardian.  Of course, it’s still all speculation.  
+"Deputy Commander, do we have more Rift Stones in our supplies?"
+We checked the Rift Stones we had, but unfortunately, we only had a few Grade 6 or below.  Of course, it’s not surprising.  How often would we need to enter a labyrinth with Rift Stones?  The fact that we even have this many is proof of how meticulous the royal family is.  
+"So it’s like a lower-tier version of the Rift Generator..."
+Incidentally, there is one item in the Numbers items that is similar to this statue: No. 18 Rift Generator.  This item also has the ability to open rifts when a Rift Stone is inserted.  It can be activated with about 10 Grade 9 Rift Stones.  When a rift is generated, a rift on the corresponding floor is randomly opened.  Although it requires you to go to that floor first, it’s a higher tier item because it doesn’t require higher-grade Rift Stones, and it actually takes you into the real rift.  
+"Well, this statue might also open a portal to a real rift..."
+However, considering its statue form, it’s more likely that it will only produce one boss, like the previous Guardian statues.
+"Alright, I see. Good work. I’ll keep the statues since we’ve figured out their purpose."
+I placed the statues in my back pocket and continued to review other reports.
+"What about the Soul Eater’s essence?"
+"There hasn’t been much progress.  Since the essence needs to be absorbed by someone before we can study it..."
+"You need to feed it to someone to research it.  Alright, I’ll think about this."
+"Yes sir."
+"I’m getting hungry.  Everyone except the Research Head, go rest."
+I ended the meeting there, dismissing everyone except the Research Head.  
+"The Commander must have kept me behind to—"
+"It’s ‘Commander,’ not ‘Commander-san.'"
+It was still an official meeting, but, unfortunately, the Research Head completely ignored me and continued what she was saying.
+"He must be curious about how much I’ve learned about that thing."
+"Yes. Have you learned anything?"
+Raven, the exploration force’s Research Head, immediately cast a sound-muffling magic spell.
+"Actually, I’ve made significant progress."
+"Oh, really?"
+"This crown is a Numbers item."
+"Numbers item?"
+I know all the Numbers items by heart—from No. 1 to No. 9,999—so this was difficult to comprehend.  There's no crown like this among the Numbers items.  And Raven knows that.  
+"Tell me more."
+"Since this is the first floor we’ve encountered, the exploration force has some pretty good research equipment."
+"So?"
+"After analyzing its properties, I concluded that this crown possesses the same inherent properties that all Numbers items have. So, I've categorized this crown as a Numbers item."
+"But it’s missing the most important thing—the number."
+"That’s true.  So I decided to give it a name that seemed suitable to me..."
+"Why are you blushing? Tell me quickly."
+"Secret Number… what do you think?"
+It was a tamer name than what I expected, considering it was made by Raven.
+"I think it's possible that we’ll find more Numbers items like this as we explore the 1st floor that don’t have known numbers."
+"It’s not bad."
+"Oh, so I can officially use that name?"
+"Yes."
+I nodded, and Raven’s face lit up.  She must be imagining a future where "Secret Number" becomes a commonly used noun.  Whatever, the name doesn’t matter.
+"Alright, that's settled. Tell me what this thing does."
+I was worried she had only come here to discuss the name, but thankfully, Raven’s curiosity is as genuine as her ambition.
+"I’ll only talk about the confirmed abilities. Keep in mind that there might be other abilities we haven’t discovered yet."
+"Alright, hurry up."
+"First, wearing this crown grants immunity to all mental-type harmful effects."
+"Oh..."
+It’s a much better item than I thought.  A crown that grants mental immunity?  Since high-level raids often require mental stats or equipment, this is an effect I can use for a long time. 
+"Can I wear it?..."
+I imagined a giant barbarian wearing a crown on his head, and it felt a bit ridiculous, but gamers prioritize performance over appearance.
+"Ah, there’s one more thing."
+The following explanation made me abandon my desire for the crown.
+"When worn, it grants immunity to divine power.  You won’t be affected by divine spells, but you won’t benefit from healing spells either.  Other beneficial blessing spells will also be useless, of course."
+"Ah..."
+I felt like there would be a handicap, and it seems I was right.
+"I can’t use it."
+As a tank, I need to be healed regularly, so I can't use this crown.
+"That’s all I’ve found out. I haven’t discovered its usage yet.  I’m leaning towards the possibility that it doesn’t have any."
+"Good work."
+"Just in case, I’ll take it back for further research.  Okay?"
+"Of course."
+Encouraging the enthusiasm of subordinates is also one of the responsibilities of superiors.
+"Ah, right, Commander."
+"It’s Commander, I told you."
+"Those three statues we found in the stone chamber, right?  You said they are activated by Rift Stones, and it’s likely that the type of rift that opens is determined by the grade of the Rift Stone?"
+"Yes, and?"
+Raven pulled out a Rift Stone.  I didn’t know what grade it was, but it was quite large.  
+"This is the Rift Stone we got after defeating the vampire Guardian in the first mutated rift we encountered."
+"Ah, that’s the one?"
+"Yes.  I was keeping it instead of selling it because..."
+"So?"
+Raven asked me with a genuinely curious voice.
+"What kind of rift would open if we insert this into the statue?"
+Well… I don’t know.
+"...Should we try it?"
+I’m also quite curious about this.  
