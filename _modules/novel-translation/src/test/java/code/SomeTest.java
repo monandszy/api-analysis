@@ -73,17 +73,16 @@ class SomeTest {
         })
         .map(e -> e.getFileName().toString().split("\\.")[0])
         .sorted()
-        .skip(704)
-        .limit(3)
+        .skip(741)
         .forEach(this::translate);
 
     }
   }
 
-  // I have no idea why did I name it like this and didn't noitice heh, Let's just leave it
+  // I have no idea why did I name it like this and didn't notice heh, Let's just leave it
   @Test
   void trawenslateOne() {
-    translate("733");
+    translate("751");
   }
 
   @SneakyThrows

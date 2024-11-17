@@ -22,6 +22,7 @@ public class WebScraper {
 //    while (true) {
 //      url = fetchChapter(url);
 //    }
+    System.out.println("Working Directory = " + System.getProperty("user.dir"));
     rename();
   }
 
@@ -48,7 +49,8 @@ public class WebScraper {
 
   @SneakyThrows
   public static void rename() {
-    Path folderPath = Paths.get("_scraped");
+    Path folderPath = Paths.get("_modules/novel-translation/_naver");
+    System.out.println(Files.exists(folderPath));
     try (Stream<Path> walk = Files.walk(folderPath);) {
       walk
         .filter(Files::isRegularFile)
